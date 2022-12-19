@@ -19,8 +19,8 @@ import sys
 #alsa config: sudo namo /usr/share/alsa/alsa.conf
 
 #paths
-rtsp_url = rtsp_url = "rtsp://badgercam:badgercam@192.168.0.40/stream2"
-writepath = "/home/badgercam/Pictures/wildcam/"
+rtsp_url = rtsp_url = "rtsp://user:pass@192.168.0.40/stream2"
+writepath = "PATH"
 
 #Sensor Input
 
