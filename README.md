@@ -10,6 +10,6 @@ Elements include
 5. USB Drive
 6. Solar Panel 30v
 7. Solar Panel Controller - Volt Controller
-8. 12v Battery 9ah x2
+8. 12v Battery 9ah x2 - (in process of researching other battery types)
 
 The PI takes some setting up but works fairly well in all, after much testing! 
