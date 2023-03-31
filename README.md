@@ -10,7 +10,7 @@ Elements include for first experimental version;
 3. Audio Interface - Zoom H1n
 4. PIR Sensor
 5. USB Pen Drive
-6. Solar Panel 12v - 40w
+6. Solar Panel 12v - 140w
 7. Solar Panel Controller - Volt Controller
 8. 12v Battery 100ah
 9. 12v Wind Turbine
