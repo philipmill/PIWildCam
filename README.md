@@ -29,5 +29,15 @@ date of upgrade 07/12/2023.
 7. Portable wifi Router.
 8. Picamera NOIR module. 
 
+The final working version of this project is now using a, as of march 2024: 
+
+1. PI4.
+2. Rode AI Micro
+3. Waveshare Solar powered battery pack
+4. 18v 110w Solar Panel
+5. Picamera NOIR Module
+6. PIR SENSOR
+7. USB PEN DRIVE
+   
 
 The PI takes some setting up but works fairly well in all, after much testing! 
