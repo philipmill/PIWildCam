@@ -1,5 +1,14 @@
 # PIWildCam
 
+Python Packages Required:
+
+sudo apt-get install PortAudio19-dev
+sudo apt-get libportaudio2
+pip install python-sounddevice
+sudo apt-get install libasound-dev
+pip install scipy
+sudo apt-get install libopenblas-dev
+
 A device running off a raspberry pi 3+ - to capture audio using a PIR sensor for recording at a badger sett; we wanted to keep recording
 without disturbing the environment and get an insight into the lives of badgers throughout the year so we are currently developing this as an ongoing
 project.
